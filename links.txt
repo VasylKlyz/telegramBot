@@ -1,0 +1,2 @@
+https://habr.com/post/351350/
+https://github.com/sochix/TLSharp
