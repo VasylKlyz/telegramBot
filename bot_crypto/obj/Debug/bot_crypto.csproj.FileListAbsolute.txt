@@ -1,0 +1,170 @@
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\bin\Debug\bot_crypto.exe.config
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\bin\Debug\bot_crypto.exe
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\bin\Debug\bot_crypto.pdb
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\bin\Debug\Telegram.Bot.dll
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\bin\Debug\Telegram.Bot.xml
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\obj\Debug\bot_crypto.csprojResolveAssemblyReference.cache
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\obj\Debug\bot_crypto.mainform.resources
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\obj\Debug\bot_crypto.Properties.Resources.resources
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\obj\Debug\bot_crypto.csproj.GenerateResource.cache
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\obj\Debug\bot_crypto.csproj.CoreCompileInputs.cache
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\obj\Debug\bot_crypto.csproj.CopyComplete
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\obj\Debug\bot_crypto.exe
+C:\Users\вася\Desktop\bot_crypto\bot_crypto\obj\Debug\bot_crypto.pdb
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\obj\Debug\bot_crypto.csprojResolveAssemblyReference.cache
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\obj\Debug\bot_crypto.mainform.resources
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\obj\Debug\bot_crypto.Properties.Resources.resources
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\obj\Debug\bot_crypto.csproj.GenerateResource.cache
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\obj\Debug\bot_crypto.csproj.CoreCompileInputs.cache
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\obj\Debug\bot_crypto.exe
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\obj\Debug\bot_crypto.pdb
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\bot_crypto.exe.config
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\bot_crypto.exe
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\bot_crypto.pdb
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\Telegram.Bot.dll
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\Telegram.Bot.xml
+C:\Users\вася\Desktop\bot\bot_crypto\bot_crypto\obj\Debug\bot_crypto.csproj.CopyComplete
+C:\Users\Вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\dbCrypto.mdf
+C:\Users\Вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\dbCrypto_log.ldf
+C:\Users\Вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\BigMath.dll
+C:\Users\Вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\DotNetZip.dll
+C:\Users\Вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\Ionic.ZLib.dll
+C:\Users\Вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\TeleSharp.TL.dll
+C:\Users\Вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\TLSharp.Core.dll
+C:\Users\Вася\Desktop\bot\bot_crypto\bot_crypto\bin\Debug\DotNetZip.xml
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\dbCrypto.mdf
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\dbCrypto_log.ldf
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe.config
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\bot_crypto.pdb
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\BigMath.dll
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\DotNetZip.dll
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\Ionic.ZLib.dll
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.dll
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\TeleSharp.TL.dll
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\TLSharp.Core.dll
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\DotNetZip.xml
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.xml
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csprojResolveAssemblyReference.cache
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\obj\Debug\bot_crypto.mainform.resources
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\obj\Debug\bot_crypto.Properties.Resources.resources
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.GenerateResource.cache
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CoreCompileInputs.cache
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CopyComplete
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\obj\Debug\bot_crypto.exe
+C:\Users\вася\Desktop\c\ctyptobot\bot_crypto\obj\Debug\bot_crypto.pdb
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe.config
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.exe
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.pdb
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\bot_crypto.pdb
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\BigMath.dll
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\DotNetZip.dll
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\Ionic.ZLib.dll
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.dll
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\TeleSharp.TL.dll
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\TLSharp.Core.dll
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\DotNetZip.xml
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.xml
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.Properties.Resources.resources
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.GenerateResource.Cache
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\dbCrypto.mdf
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\dbCrypto_log.ldf
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe.config
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\bot_crypto.pdb
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\BigMath.dll
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\DotNetZip.dll
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\Ionic.ZLib.dll
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.dll
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\TeleSharp.TL.dll
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\TLSharp.Core.dll
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\DotNetZip.xml
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.xml
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csprojResolveAssemblyReference.cache
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\obj\Debug\bot_crypto.mainform.resources
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\obj\Debug\bot_crypto.Properties.Resources.resources
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.GenerateResource.cache
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CoreCompileInputs.cache
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CopyComplete
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\obj\Debug\bot_crypto.exe
+C:\Users\Вася\Desktop\botttt\ctyptobot\bot_crypto\obj\Debug\bot_crypto.pdb
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe.config
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\bot_crypto.pdb
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\BigMath.dll
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\DotNetZip.dll
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\Ionic.ZLib.dll
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.dll
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\TeleSharp.TL.dll
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\TLSharp.Core.dll
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\DotNetZip.xml
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.xml
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.Properties.Resources.resources
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.GenerateResource.cache
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CoreCompileInputs.cache
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CopyComplete
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.exe
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.pdb
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.mainform.resources
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.mainform.resources
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CopyComplete
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\dbCrypto.mdf
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\dbCrypto_log.ldf
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe.config
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\bot_crypto.pdb
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\BigMath.dll
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\DotNetZip.dll
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\Ionic.ZLib.dll
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.dll
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\TeleSharp.TL.dll
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\TLSharp.Core.dll
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\DotNetZip.xml
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.xml
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csprojResolveAssemblyReference.cache
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\obj\Debug\bot_crypto.mainform.resources
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\obj\Debug\bot_crypto.Properties.Resources.resources
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.GenerateResource.cache
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CoreCompileInputs.cache
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CopyComplete
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\obj\Debug\bot_crypto.exe
+C:\Users\вася\Desktop\Новая папка\ctyptobot\bot_crypto\obj\Debug\bot_crypto.pdb
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe.config
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\bot_crypto.exe
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\bot_crypto.pdb
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\BigMath.dll
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\DotNetZip.dll
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\Ionic.ZLib.dll
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.dll
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\TeleSharp.TL.dll
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\TLSharp.Core.dll
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\DotNetZip.xml
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\bin\Debug\Telegram.Bot.xml
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csprojResolveAssemblyReference.cache
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.mainform.resources
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.Properties.Resources.resources
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.GenerateResource.cache
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CoreCompileInputs.cache
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csproj.CopyComplete
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.exe
+C:\Users\Клыженко.Василий\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.pdb
+C:\Users\вася\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\ctyptobot\bot_crypto\obj\Debug\bot_crypto.csprojAssemblyReference.cache
