@@ -18,7 +18,7 @@ namespace bot_crypto
         public TlegrammSendMessagesToUsersByBot()
         {
             //@crypto_sklad_empire_bot
-            Bot = new TelegramBotClient("586914291:AAGGTaA-lXEzNr_niBWvBRVH_bF4aE26v0E");//"556610527:AAEPwqrf-AZo6QpFbLil7mMfAcEQmNaj_V4
+            Bot = new TelegramBotClient("586914291:AAGGTaA-lXEzNr_niBWvBRVH_bF4aE26v0E");//556610527:AAEPwqrf-AZo6QpFbLil7mMfAcEQmNaj_V4
             Bot.SetWebhookAsync("");
             Bot.StartReceiving();
             Bot.OnCallbackQuery += CallBackButtons;
@@ -125,7 +125,7 @@ namespace bot_crypto
                 foreach (var item in userId)
                 {
                     Thread.Sleep(100);
-                    Bot.SendTextMessageAsync(item,"*"+channelName+"*"+Environment.NewLine+msg.Message,Telegram.Bot.Types.Enums.ParseMode.Markdown);
+                    Bot.SendTextMessageAsync(item,"*"+channelName+"* :"+Environment.NewLine+msg.Message,Telegram.Bot.Types.Enums.ParseMode.Markdown);
                 }
             }
         }
